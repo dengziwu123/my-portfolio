@@ -31,7 +31,7 @@ export function Header() {
           href="#hero"
           className="text-sm font-semibold tracking-tight text-foreground transition hover:text-accent"
         >
-          Nathan Wu
+          Bo Wu
         </a>
         <nav className="flex flex-wrap items-center justify-end gap-x-5 gap-y-2 text-sm">
           {nav.map((item) => (

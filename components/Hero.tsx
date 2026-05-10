@@ -39,10 +39,10 @@ export function Hero() {
           Fixed income investor · Learning AI &amp; Next.js
         </p>
         <h1 className="max-w-3xl text-4xl font-semibold tracking-tight text-foreground sm:text-5xl lg:text-6xl lg:leading-[1.05]">
-          Nathan Wu
+          Bo Wu
         </h1>
         <p className="mt-6 max-w-2xl text-lg leading-relaxed text-slate-600 dark:text-slate-300">
-          My name is Nathan Wu, I&apos;m a fixed income investor, and I&apos;m
+          My name is Bo Wu, I&apos;m a fixed income investor, and I&apos;m
           learning to build with AI and Next.js.
         </p>
         <p className="mt-8 max-w-2xl border-l-2 border-violet-500 pl-5 text-base font-medium leading-relaxed text-slate-800 dark:border-violet-400 dark:text-slate-100">

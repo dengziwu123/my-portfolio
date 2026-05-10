@@ -13,7 +13,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Nathan Wu · Portfolio",
+  title: "Bo Wu · Portfolio",
   description:
     "Fixed income investor learning to build with AI and Next.js.",
 };
